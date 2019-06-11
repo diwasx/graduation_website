@@ -8,7 +8,7 @@
 
   <p align="center">
     <br />
-    <a href="https://graduation-website.000webhostapp.com/">View Demo</a>
+    <a href="https://diwasx.github.io/graduation_website/">View Demo</a>
     ·
     <a href="https://github.com/diwasx/graduation_website/issues">Report Bug</a>
   </p>
